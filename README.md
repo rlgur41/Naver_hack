@@ -14,4 +14,4 @@ if you want to watch Data Processing(Hadoop , Spark) codes, go to https://github
 
 or contact me rlgur41@naver.com
 
-thanks you.
+thank you.
